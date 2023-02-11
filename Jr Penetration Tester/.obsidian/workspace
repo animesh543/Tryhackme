@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "f34254a78599de67",
+    "type": "split",
+    "children": [
+      {
+        "id": "822e0c0a27202aeb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f82739a2ef4d9982",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3c81233cfb511ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a300b9b71a0ea69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43a422e869a57ed5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264
+  },
+  "right": {
+    "id": "aac53f32485792ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c6daec4a8266cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39c5996f9b8ccded",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "822e0c0a27202aeb",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Network Security/Nmap Advanced Port Scans.md",
+    "Network Security/Active Reconnaissance.md",
+    "Network Security/Nmap Live Host Discovery.md",
+    "Introduction to Pentesting/Principles of Security.md",
+    "Burpsuite/Burp Suite Other Modules.md",
+    "Burpsuite/Burp Suite Extender.md",
+    "Vulnerability Research/Vulnerabilities 101.md",
+    "Privilege Escalation/Linux PrivEsc.md",
+    "Introduction to Web Hacking/Command Injection.md"
+  ]
+}
